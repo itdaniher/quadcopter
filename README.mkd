@@ -18,3 +18,6 @@ parts purchased from digikey:
 
 	1x [EZ430-RF2500](http://search.digikey.com/us/en/products/EZ430-RF2500/296-23031-ND/1785839) dev board = $50.00
 
+parts purchased from ebay:
+
+	1x [knockoff Wii Motion Plus](http://www.ebay.com/itm/Nintendo-Wii-WHITE-Motion-Plus-Adapter-New-Remote-Controller-Adaptor-/290631522510) = $9.99
