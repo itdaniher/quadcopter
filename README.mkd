@@ -1,0 +1,16 @@
+This is a miscellaneous assortment of files pertinent to the construction of a small quadcopter based off of the [simple-flight-controller](http://code.google.com/p/simple-flight-controller/) project.
+
+ * (quadcenter.brd) / (quadcenter.hpg) - CAD files to be cut out of 3mm acrylic for bracing the carbon-fiber struts.
+ * (WM+.jpg) - high-resolution image of the knockoff WM+ used for a gyroscope
+
+-----
+
+parts purchased from hobbyking:
+
+	4x #HXM1400-2000/6312 hexTronik 5gram Brushless Outrunner 2000kv = $32.44
+	4x #TR-6A/4318 TURNIGY Plush 6A /.8bec/6g Speed Controller = $31.92
+	4x #HCB-04/11327 4x2.5 Propellers (Standard and Counter Rotating) (6pc) = $8.96
+	2x #R460-20-2/7303 Rhino 460mAh 2S 7.4v 20C Lipoly Pack = $9.58
+	5x #CFS-3/8710 Carbon Fiber Square Tube 750x3mm = $7.45
+	1x #CFWFS3x1x1/9781 Woven Carbon Fiber Sheet 300x100 (1.0MM Thick) = $10.79
+
