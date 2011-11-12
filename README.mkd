@@ -14,3 +14,7 @@ parts purchased from hobbyking:
 	5x #CFS-3/8710 Carbon Fiber Square Tube 750x3mm = $7.45
 	1x #CFWFS3x1x1/9781 Woven Carbon Fiber Sheet 300x100 (1.0MM Thick) = $10.79
 
+parts purchased from digikey:
+
+	1x [EZ430-RF2500](http://search.digikey.com/us/en/products/EZ430-RF2500/296-23031-ND/1785839) dev board = $50.00
+
